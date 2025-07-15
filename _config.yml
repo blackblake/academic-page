@@ -23,13 +23,13 @@ repository               : "blackblake/academic-page"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Lyu Tianbai"
+  pronouns         : "he/his"  
+  bio              : "currently undergraduate student at the School of Computer Science, Wuhan University"
+  location         : "Wuhan, China"
+  # employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2023302111010@whu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL 
   researchgate     : # URL
   scopus           : # URL
 
